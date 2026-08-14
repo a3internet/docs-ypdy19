@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-lbsa1i.shiokambing67id.cfd/sitemap.xml
